@@ -3,7 +3,7 @@ Hello 👋
 
 
 ### 🚧 What I am Doing Currently
-- I am currently learning Angular and Spring Boot by recreating my Workout Tracker app into a web application. Feel free to follow along and track my progress [here](https://github.com/jerwng/WorkoutTracker2)!
+- I am currently learning Angular and Spring Boot by recreating my Workout Tracker app into a web application.  If you have any insights or tips, I'd love to hear them! Feel free follow along with my progress [here](https://github.com/jerwng/WorkoutTracker2).
 
 ### 📚 Check Out My Previous Projects
 
