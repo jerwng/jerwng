@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me
-Hello 👋
+Hello 👋 My name is Jerry, welcome to my GitHub profile.
 
 
 ### 🚧 What I Am Doing Currently
