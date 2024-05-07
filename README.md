@@ -3,8 +3,8 @@ Hello 👋 My name is Jerry, welcome to my GitHub profile.
 
 
 ### 🚧 What I Am Doing Currently
-- I am currently learning Angular and Spring Boot by recreating my Workout Tracker app into a web application.  If you have any insights or tips, I'd love to hear them! Feel free follow along with my progress [here](https://github.com/jerwng/WorkoutTracker2).
-
+- I am currently interested in learning more about systems programming.  If you have any tips or cool projects I can learn from, I'd love to hear them! 🫡
+  
 ### 📚 Check Out My Previous Projects
 
 - [Word Searcher with React and Flask](https://github.com/jerwng/impdf-search)
