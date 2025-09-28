@@ -3,7 +3,7 @@ Hello 👋 My name is Jerry, welcome to my GitHub profile.
 
 
 ### 🚧 What I Am Doing Currently
-- I am currently interested in learning more about systems programming.  If you have any tips or cool projects I can learn from, I'd love to hear them! 🫡
+- Currently, I am pursuing a Master’s degree in Computer Science at the University of Texas Rio Grande Valley. I am a member of the [Machine Intelligence](https://miutrgv.github.io) lab at UTRGV, where I conduct research in Reinforcement Learning of Multi-Agent and robotic locomotion environments. Additionally, I am co-instructing CSCI 1101 Introduction to Computer Science with [Wavy-Hec](https://github.com/wavy-hec) for the Fall 2025 semester.
   
 ### 📚 Check Out My Previous Projects
 
